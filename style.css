@@ -1,1 +1,12 @@
+body {
+  padding: 10px;
+}
 
+input {
+  margin: 5px;
+  width: 100%;
+}
+
+textarea {
+  width: 100%;
+}
